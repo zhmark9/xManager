@@ -16554,4 +16554,6 @@ public class MainActivity extends AppCompatActivity {
 	public int getDisplayHeightPixels() {
 		return getResources().getDisplayMetrics().heightPixels;
 	}
+	System.out.println("This is my change made to a cloned repository for MIST 4600E - Mark");
+	
 }
