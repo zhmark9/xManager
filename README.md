@@ -2,7 +2,7 @@
   <a href="https://www.xmanagerapp.com/"><img width="200" src="https://i.ibb.co/64bJncy/xmanger.gif">
 </p>
 
-### <p align="center">AD-FREE | NEW FEATURES | FREEDOM</p>
+### <p align="center">This fork was edited for a class assignment</p>
 
 <div align="center">
 
@@ -111,4 +111,4 @@ We will support the app as long as we can. Internal improvements may not be guar
 
 </div>
 
-### <p align="center">THANKS TO ALL CONTRIBUTORS! ❤️</p>
+### <p align="center">This fork was edited for a class assignment</p>
